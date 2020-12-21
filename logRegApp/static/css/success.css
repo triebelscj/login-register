@@ -1,0 +1,20 @@
+#logged-in{
+    width: 100vw;
+    height: 100vh;
+    background-color: turquoise;
+}
+
+li{
+    list-style: none;
+}
+
+#landing{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.jumbotron{
+    width: 50%;
+}
